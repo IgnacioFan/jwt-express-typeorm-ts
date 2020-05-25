@@ -1,0 +1,12 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "jwt-express-typorm-API Document",
+    "description": "jwt express typeorm example",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  }
+}
